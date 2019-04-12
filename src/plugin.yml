@@ -1,0 +1,10 @@
+main: tk.xmon.vanish.Vanish
+name: 'x-Vanish'
+author: 'Xmon'
+version: '1.0'
+website: ['https://PlayTS.eu', 'https://xmon.tk']
+commands:
+  vanish:
+    aliases: [v]
+  vanishsettings:
+    aliases: [vs, vsettings, vanishs]
